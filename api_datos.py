@@ -1,6 +1,4 @@
 import json
-from pprint import pprint
-
 import requests
 
 url = 'https://api.datos.gob.mx/v1/calidadAire'
